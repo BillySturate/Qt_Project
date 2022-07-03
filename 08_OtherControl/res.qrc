@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/1.jpg</file>
+        <file>images/2.jpg</file>
+        <file>images/3.jpg</file>
+        <file>images/4.jpg</file>
+        <file>images/5.jpg</file>
+        <file>images/555.ico</file>
+        <file>images/chou.jpg</file>
+        <file>images/giphy.gif</file>
+        <file>images/h_g.jpg</file>
+        <file>images/hg.jpg</file>
+        <file>images/jay.jpg</file>
+        <file>images/QQ图片20220118170506.jpg</file>
+        <file>images/ui3.png</file>
+        <file>images/ui8.png</file>
+    </qresource>
+</RCC>
